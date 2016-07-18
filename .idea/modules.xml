@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven-plugin/maven-plugin.iml" filepath="$PROJECT_DIR$/maven-plugin/maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-project.iml" filepath="$PROJECT_DIR$/multi-module-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" filepath="$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" />
+    </modules>
+  </component>
+</project>

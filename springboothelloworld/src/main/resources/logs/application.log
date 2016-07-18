@@ -1,0 +1,139 @@
+2016-07-12 10:29:16 DEBUG Application:22 - Application running...
+2016-07-12 10:29:16 DEBUG Application:22 - Application running...
+2016-07-12 10:29:16 INFO  Application:48 - Starting Application on MAXIMYIIIKA with PID 8896 (C:\Users\maxim\IdeaProjects\springboothelloworld\target\classes started by maxim in C:\Users\maxim\IdeaProjects\springboothelloworld)
+2016-07-12 10:29:16 DEBUG Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-12 10:29:16 INFO  Application:660 - No active profile set, falling back to default profiles: default
+2016-07-12 10:29:18 DEBUG ModulePlatform:20 - ModulePlatform{modules=null} object creation
+2016-07-12 10:29:18 DEBUG AppContext:20 - @Bean ModulePlatform{modules=[]} created
+2016-07-12 10:29:18 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-12 10:29:18 DEBUG HelloModContext:34 - @Bean HelloButton{} created
+2016-07-12 10:29:19 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-12 10:29:19 DEBUG HelloModContext:41 - @Bean ByeButton{} created
+2016-07-12 10:29:19 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-12 10:29:19 DEBUG HelloModContext:48 - @Bean CleanButton{} created
+2016-07-12 10:29:19 DEBUG ButtonModule:21 - ButtonModule{} object creation
+2016-07-12 10:29:19 DEBUG HelloModContext:26 - @Bean ButtonModule{} created
+2016-07-12 10:29:19 DEBUG ModulePlatform:29 - Button module initialization
+2016-07-12 10:29:19 DEBUG ModulePlatform:31 - Button module initialized
+2016-07-12 10:29:19 DEBUG Module1:17 - Module1{} object creation
+2016-07-12 10:29:19 DEBUG Module1Context:26 - @Bean Module1{} created
+2016-07-12 10:29:19 DEBUG ModulePlatform:29 - Module1 initialization
+2016-07-12 10:29:19 DEBUG ModulePlatform:31 - Module1 initialized
+2016-07-12 10:29:19 DEBUG Module2:20 - Module2{} object creation
+2016-07-12 10:29:19 DEBUG Module2Context:26 - @Bean Module2{} created
+2016-07-12 10:29:19 DEBUG ModulePlatform:29 - Module2 initialization
+2016-07-12 10:29:19 DEBUG ModulePlatform:31 - Module2 initialized
+2016-07-12 10:29:19 INFO  Application:57 - Started Application in 3.601 seconds (JVM running for 4.07)
+2016-07-12 10:29:26 DEBUG MainController:28 - MainController.startPage() is working
+2016-07-12 10:29:26 DEBUG MainController:28 - MainController.startPage() is working
+2016-07-12 10:29:27 DEBUG MainController:35 - MainController.showModules() is working
+2016-07-12 10:29:28 DEBUG HelloController:30 - HelloController.startPage() is working
+2016-07-12 10:29:29 DEBUG HelloController:37 - HelloController.sayPhrase() is working
+2016-07-12 10:29:30 DEBUG HelloController:37 - HelloController.sayPhrase() is working
+2016-07-12 10:29:31 DEBUG HelloController:37 - HelloController.sayPhrase() is working
+2016-07-12 10:29:34 DEBUG Module1Controller:30 - Module1Controller.mainPage() is working
+2016-07-12 10:29:38 DEBUG Module2Controller:28 - Module2Controller.mainPage() is working
+2016-07-17 12:54:06 DEBUG Application:22 - Application running...
+2016-07-17 12:54:06 DEBUG Application:22 - Application running...
+2016-07-17 12:54:07 INFO  Application:48 - Starting Application on MAXIMYIIIKA with PID 2724 (C:\Users\maxim\IdeaProjects\springboothelloworld\target\classes started by maxim in C:\Users\maxim\IdeaProjects\springboothelloworld)
+2016-07-17 12:54:07 DEBUG Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-17 12:54:07 INFO  Application:660 - No active profile set, falling back to default profiles: default
+2016-07-17 12:54:09 DEBUG ModulePlatform:20 - ModulePlatform{modules=null} object creation
+2016-07-17 12:54:09 DEBUG AppContext:20 - @Bean ModulePlatform{modules=[]} created
+2016-07-17 12:54:09 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-17 12:54:09 DEBUG HelloModContext:34 - @Bean HelloButton{} created
+2016-07-17 12:54:09 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-17 12:54:09 DEBUG HelloModContext:41 - @Bean ByeButton{} created
+2016-07-17 12:54:09 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-17 12:54:09 DEBUG HelloModContext:48 - @Bean CleanButton{} created
+2016-07-17 12:54:09 DEBUG ButtonModule:21 - ButtonModule{} object creation
+2016-07-17 12:54:09 DEBUG HelloModContext:26 - @Bean ButtonModule{} created
+2016-07-17 12:54:09 DEBUG ModulePlatform:29 - Button module initialization
+2016-07-17 12:54:09 DEBUG ModulePlatform:31 - Button module initialized
+2016-07-17 12:54:09 DEBUG Module1:17 - Module1{} object creation
+2016-07-17 12:54:09 DEBUG Module1Context:26 - @Bean Module1{} created
+2016-07-17 12:54:09 DEBUG ModulePlatform:29 - Module1 initialization
+2016-07-17 12:54:09 DEBUG ModulePlatform:31 - Module1 initialized
+2016-07-17 12:54:09 DEBUG Module2:20 - Module2{} object creation
+2016-07-17 12:54:09 DEBUG Module2Context:26 - @Bean Module2{} created
+2016-07-17 12:54:09 DEBUG ModulePlatform:29 - Module2 initialization
+2016-07-17 12:54:09 DEBUG ModulePlatform:31 - Module2 initialized
+2016-07-17 12:54:10 INFO  Application:57 - Started Application in 3.969 seconds (JVM running for 4.733)
+2016-07-18 04:57:11 DEBUG Application:22 - Application running...
+2016-07-18 04:57:11 DEBUG Application:22 - Application running...
+2016-07-18 04:57:12 INFO  Application:48 - Starting Application on MAXIMYIIIKA with PID 3724 (C:\Users\maxim\IdeaProjects\springboothelloworld\target\classes started by maxim in C:\Users\maxim\IdeaProjects\springboothelloworld)
+2016-07-18 04:57:12 DEBUG Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-18 04:57:12 INFO  Application:660 - No active profile set, falling back to default profiles: default
+2016-07-18 04:57:14 DEBUG ModulePlatform:20 - ModulePlatform{modules=null} object creation
+2016-07-18 04:57:14 DEBUG AppContext:20 - @Bean ModulePlatform{modules=[]} created
+2016-07-18 04:57:14 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-18 04:57:14 DEBUG HelloModContext:34 - @Bean HelloButton{} created
+2016-07-18 04:57:14 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-18 04:57:14 DEBUG HelloModContext:41 - @Bean ByeButton{} created
+2016-07-18 04:57:14 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-18 04:57:14 DEBUG HelloModContext:48 - @Bean CleanButton{} created
+2016-07-18 04:57:14 DEBUG ButtonModule:21 - ButtonModule{} object creation
+2016-07-18 04:57:14 DEBUG HelloModContext:26 - @Bean ButtonModule{} created
+2016-07-18 04:57:14 DEBUG ModulePlatform:29 - Button module initialization
+2016-07-18 04:57:14 DEBUG ModulePlatform:31 - Button module initialized
+2016-07-18 04:57:14 DEBUG Module1:17 - Module1{} object creation
+2016-07-18 04:57:14 DEBUG Module1Context:26 - @Bean Module1{} created
+2016-07-18 04:57:14 DEBUG ModulePlatform:29 - Module1 initialization
+2016-07-18 04:57:14 DEBUG ModulePlatform:31 - Module1 initialized
+2016-07-18 04:57:14 DEBUG Module2:20 - Module2{} object creation
+2016-07-18 04:57:14 DEBUG Module2Context:26 - @Bean Module2{} created
+2016-07-18 04:57:14 DEBUG ModulePlatform:29 - Module2 initialization
+2016-07-18 04:57:14 DEBUG ModulePlatform:31 - Module2 initialized
+2016-07-18 04:57:15 INFO  Application:57 - Started Application in 3.897 seconds (JVM running for 4.658)
+2016-07-18 04:57:51 DEBUG MainController:28 - MainController.startPage() is working
+2016-07-18 04:57:53 DEBUG MainController:35 - MainController.showModules() is working
+2016-07-18 05:19:15 DEBUG Application:22 - Application running...
+2016-07-18 05:19:16 DEBUG Application:22 - Application running...
+2016-07-18 05:19:16 INFO  Application:48 - Starting Application on MAXIMYIIIKA with PID 6616 (C:\Users\maxim\IdeaProjects\multi-module-project\springboothelloworld\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-18 05:19:16 DEBUG Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-18 05:19:16 INFO  Application:660 - No active profile set, falling back to default profiles: default
+2016-07-18 05:19:18 DEBUG ModulePlatform:20 - ModulePlatform{modules=null} object creation
+2016-07-18 05:19:18 DEBUG AppContext:20 - @Bean ModulePlatform{modules=[]} created
+2016-07-18 05:19:18 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-18 05:19:18 DEBUG HelloModContext:34 - @Bean HelloButton{} created
+2016-07-18 05:19:18 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-18 05:19:18 DEBUG HelloModContext:41 - @Bean ByeButton{} created
+2016-07-18 05:19:18 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-18 05:19:18 DEBUG HelloModContext:48 - @Bean CleanButton{} created
+2016-07-18 05:19:18 DEBUG ButtonModule:21 - ButtonModule{} object creation
+2016-07-18 05:19:18 DEBUG HelloModContext:26 - @Bean ButtonModule{} created
+2016-07-18 05:19:18 DEBUG ModulePlatform:29 - Button module initialization
+2016-07-18 05:19:18 DEBUG ModulePlatform:31 - Button module initialized
+2016-07-18 05:19:18 DEBUG Module1:17 - Module1{} object creation
+2016-07-18 05:19:18 DEBUG Module1Context:26 - @Bean Module1{} created
+2016-07-18 05:19:18 DEBUG ModulePlatform:29 - Module1 initialization
+2016-07-18 05:19:18 DEBUG ModulePlatform:31 - Module1 initialized
+2016-07-18 05:19:18 DEBUG Module2:20 - Module2{} object creation
+2016-07-18 05:19:18 DEBUG Module2Context:26 - @Bean Module2{} created
+2016-07-18 05:19:18 DEBUG ModulePlatform:29 - Module2 initialization
+2016-07-18 05:19:18 DEBUG ModulePlatform:31 - Module2 initialized
+2016-07-18 05:20:35 DEBUG Application:22 - Application running...
+2016-07-18 05:20:35 DEBUG Application:22 - Application running...
+2016-07-18 05:20:35 INFO  Application:48 - Starting Application on MAXIMYIIIKA with PID 6496 (C:\Users\maxim\IdeaProjects\multi-module-project\springboothelloworld\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-18 05:20:35 DEBUG Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-18 05:20:35 INFO  Application:660 - No active profile set, falling back to default profiles: default
+2016-07-18 05:20:38 DEBUG ModulePlatform:20 - ModulePlatform{modules=null} object creation
+2016-07-18 05:20:38 DEBUG AppContext:20 - @Bean ModulePlatform{modules=[]} created
+2016-07-18 05:20:38 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-18 05:20:38 DEBUG HelloModContext:34 - @Bean HelloButton{} created
+2016-07-18 05:20:38 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-18 05:20:38 DEBUG HelloModContext:41 - @Bean ByeButton{} created
+2016-07-18 05:20:38 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-18 05:20:38 DEBUG HelloModContext:48 - @Bean CleanButton{} created
+2016-07-18 05:20:38 DEBUG ButtonModule:21 - ButtonModule{} object creation
+2016-07-18 05:20:38 DEBUG HelloModContext:26 - @Bean ButtonModule{} created
+2016-07-18 05:20:38 DEBUG ModulePlatform:29 - Button module initialization
+2016-07-18 05:20:38 DEBUG ModulePlatform:31 - Button module initialized
+2016-07-18 05:20:38 DEBUG Module1:17 - Module1{} object creation
+2016-07-18 05:20:38 DEBUG Module1Context:26 - @Bean Module1{} created
+2016-07-18 05:20:38 DEBUG ModulePlatform:29 - Module1 initialization
+2016-07-18 05:20:38 DEBUG ModulePlatform:31 - Module1 initialized
+2016-07-18 05:20:38 DEBUG Module2:20 - Module2{} object creation
+2016-07-18 05:20:38 DEBUG Module2Context:26 - @Bean Module2{} created
+2016-07-18 05:20:38 DEBUG ModulePlatform:29 - Module2 initialization
+2016-07-18 05:20:38 DEBUG ModulePlatform:31 - Module2 initialized
