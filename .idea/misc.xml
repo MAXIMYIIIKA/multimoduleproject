@@ -47,6 +47,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboothelloworld/pom.xml" />
         <option value="$PROJECT_DIR$/moduleplatform/pom.xml" />
+        <option value="$PROJECT_DIR$/hellobuttonmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/module1/pom.xml" />
+        <option value="$PROJECT_DIR$/module2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

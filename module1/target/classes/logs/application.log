@@ -1,0 +1,13 @@
+2016-07-21 09:49:20 INFO  Module1Application:48 - Starting Module1Application on MAXIMYIIIKA with PID 5592 (C:\Users\maxim\IdeaProjects\multi-module-project\module1\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:49:20 DEBUG Module1Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:49:20 INFO  Module1Application:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:49:25 DEBUG Module1:16 - Module1{} object creation
+2016-07-21 09:49:25 DEBUG Module1Context:29 - @Bean Module1{} created
+2016-07-21 09:49:25 DEBUG Module1Context:22 - @Bean Module1 created
+2016-07-21 09:49:27 INFO  Module1Application:57 - Started Module1Application in 7.961 seconds (JVM running for 9.697)
+2016-07-21 09:55:01 INFO  Module1Application:48 - Starting Module1Application on MAXIMYIIIKA with PID 3948 (C:\Users\maxim\IdeaProjects\multi-module-project\module1\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:55:01 DEBUG Module1Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:55:01 INFO  Module1Application:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:55:07 DEBUG Module1:16 - Module1{} object creation
+2016-07-21 09:55:07 DEBUG Module1Context:29 - @Bean Module1{} created
+2016-07-21 09:55:07 DEBUG Module1Context:22 - @Bean module.Module1Info created

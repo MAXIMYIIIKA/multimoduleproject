@@ -1,0 +1,7 @@
+2016-07-21 10:03:18 INFO  Module2Application:48 - Starting Module2Application on MAXIMYIIIKA with PID 9380 (C:\Users\maxim\IdeaProjects\multi-module-project\module2\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 10:03:18 DEBUG Module2Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 10:03:18 INFO  Module2Application:660 - No active profile set, falling back to default profiles: default
+2016-07-21 10:03:23 DEBUG Module2:19 - Module2{} object creation
+2016-07-21 10:03:23 DEBUG Module2Context:29 - @Bean Module2{} created
+2016-07-21 10:03:23 DEBUG Module2Context:22 - @Bean module.Module2Info created
+2016-07-21 10:03:25 INFO  Module2Application:57 - Started Module2Application in 7.956 seconds (JVM running for 9.301)

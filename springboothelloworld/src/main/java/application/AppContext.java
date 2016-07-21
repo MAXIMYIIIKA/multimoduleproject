@@ -19,12 +19,13 @@ public class AppContext {
     static Logger logger = Logger.getLogger(AppContext.class);
 
     @Autowired
-    public List<Module> modules;
+    public Module module;
 
     @Bean
     public ModulePlatform modulePlatform(){
-        ModulePlatform modulePlatform = new ModulePlatform(modules);
+        ModulePlatform modulePlatform = new ModulePlatform();
         logger.debug("@Bean " + modulePlatform + " created");
+        modulePlatform.addModule(module);
         return modulePlatform;
     }
 

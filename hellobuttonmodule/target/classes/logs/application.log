@@ -1,0 +1,60 @@
+2016-07-21 09:50:13 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 09:50:14 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 2308 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:50:14 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:50:14 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:50:19 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-21 09:50:19 DEBUG HelloModContext:36 - @Bean HelloButton{} created
+2016-07-21 09:50:19 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-21 09:50:19 DEBUG HelloModContext:43 - @Bean ByeButton{} created
+2016-07-21 09:50:19 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-21 09:50:19 DEBUG HelloModContext:50 - @Bean CleanButton{} created
+2016-07-21 09:50:19 DEBUG ButtonModule:19 - ButtonModule{} object creation
+2016-07-21 09:50:19 DEBUG HelloModContext:29 - @Bean ButtonModule{} created
+2016-07-21 09:50:19 DEBUG HelloModContext:22 - @Bean Button module created
+2016-07-21 09:50:21 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.401 seconds (JVM running for 9.633)
+2016-07-21 09:51:27 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 09:51:28 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 9536 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:51:28 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:51:28 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:51:34 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-21 09:51:34 DEBUG HelloModContext:36 - @Bean HelloButton{} created
+2016-07-21 09:51:34 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-21 09:51:34 DEBUG HelloModContext:43 - @Bean ByeButton{} created
+2016-07-21 09:51:34 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-21 09:51:34 DEBUG HelloModContext:50 - @Bean CleanButton{} created
+2016-07-21 09:51:34 DEBUG ButtonModule:19 - ButtonModule{} object creation
+2016-07-21 09:51:34 DEBUG HelloModContext:29 - @Bean ButtonModule{} created
+2016-07-21 09:51:34 DEBUG HelloModContext:22 - @Bean buttonModuleInfo created
+2016-07-21 09:51:36 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.42 seconds (JVM running for 9.674)
+2016-07-21 09:53:16 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 09:53:18 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 1584 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:53:18 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:53:18 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:53:23 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-21 09:53:23 DEBUG HelloModContext:36 - @Bean HelloButton{} created
+2016-07-21 09:53:23 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-21 09:53:23 DEBUG HelloModContext:43 - @Bean ByeButton{} created
+2016-07-21 09:53:23 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-21 09:53:23 DEBUG HelloModContext:50 - @Bean CleanButton{} created
+2016-07-21 09:53:23 DEBUG ButtonModule:19 - ButtonModule{} object creation
+2016-07-21 09:53:23 DEBUG HelloModContext:29 - @Bean ButtonModule{} created
+2016-07-21 09:53:23 DEBUG HelloModContext:22 - @Bean module.ButtonModuleInfo created
+2016-07-21 09:53:25 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.474 seconds (JVM running for 9.754)
+2016-07-21 09:56:06 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 09:56:08 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 2212 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:56:08 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:56:08 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:56:16 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 09:56:17 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 10204 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 09:56:17 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 09:56:17 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 09:56:23 DEBUG HelloButton:16 - HelloButton{} object creation
+2016-07-21 09:56:23 DEBUG HelloModContext:36 - @Bean HelloButton{} created
+2016-07-21 09:56:23 DEBUG ByeButton:16 - ByeButton{} object creation
+2016-07-21 09:56:23 DEBUG HelloModContext:43 - @Bean ByeButton{} created
+2016-07-21 09:56:23 DEBUG CleanButton:14 - CleanButton{} object creation
+2016-07-21 09:56:23 DEBUG HelloModContext:50 - @Bean CleanButton{} created
+2016-07-21 09:56:23 DEBUG ButtonModule:19 - ButtonModule{} object creation
+2016-07-21 09:56:23 DEBUG HelloModContext:29 - @Bean ButtonModule{} created
+2016-07-21 09:56:23 DEBUG HelloModContext:22 - @Bean module.ButtonModuleInfo created
+2016-07-21 09:56:25 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.53 seconds (JVM running for 9.754)

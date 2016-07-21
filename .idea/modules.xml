@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hellobuttonmodule/hellobuttonmodule.iml" filepath="$PROJECT_DIR$/hellobuttonmodule/hellobuttonmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi-module-project.iml" filepath="$PROJECT_DIR$/multi-module-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboothelloworld/spring-boot-hello-world.iml" filepath="$PROJECT_DIR$/springboothelloworld/spring-boot-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" filepath="$PROJECT_DIR$/springboothelloworld/springboothelloworld.iml" />
     </modules>
   </component>
 </project>
