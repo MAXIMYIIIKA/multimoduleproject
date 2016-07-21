@@ -1,6 +1,6 @@
 package application.modules.hellobuttonmodule;
 
-import application.interfaces.Module;
+import interfaces.Module;
 import application.modules.hellobuttonmodule.interfaces.PhraseButton;
 import org.apache.log4j.Logger;
 
@@ -8,11 +8,10 @@ import org.apache.log4j.Logger;
  * Created by Max Nichipor on 06.07.2016.
  */
 
-public class ButtonModule implements Module{
+public class ButtonModule {
 
     static Logger logger = Logger.getLogger(ButtonModule.class);
 
-    private final static String NAME = "Button module";
     private PhraseButton helloButton;
     private PhraseButton byeButton;
     private PhraseButton cleanButton;
@@ -57,11 +56,6 @@ public class ButtonModule implements Module{
             default:
                 return getCleanButton();
         }
-    }
-
-    @Override
-    public String getNAME() {
-        return NAME;
     }
 
     @Override

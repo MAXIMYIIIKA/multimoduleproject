@@ -17,18 +17,13 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="maven-plugin" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="maven-plugin" target="1.5" />
+      <module name="moduleplatform" target="1.8" />
       <module name="multi-module-project" target="1.5" />
-      <module name="springboothelloworld" target="1.5" />
+      <module name="spring-boot-hello-world" target="1.8" />
+      <module name="springboothelloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

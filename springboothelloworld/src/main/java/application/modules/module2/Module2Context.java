@@ -1,6 +1,7 @@
 package application.modules.module2;
 
 import application.ModulePlatform;
+import interfaces.Module;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -17,14 +18,17 @@ public class Module2Context {
 
     static  Logger logger = Logger.getLogger(Module2Context.class);
 
-    @Autowired
-    public ModulePlatform modulePlatform;
+    @Bean
+    public Module module2Info(){
+        Module module2Info = new ModuleInfo();
+        logger.debug("@Bean " + module2Info + " created");
+        return module2Info;
+    }
 
     @Bean
     public Module2 module2(){
         Module2 module2 = new Module2();
         logger.debug("@Bean " + module2 + " created");
-        modulePlatform.addModule(module2);
         return module2;
     }
 

@@ -1,6 +1,7 @@
 package application.modules.hellobuttonmodule;
 
 import application.ModulePlatform;
+import interfaces.Module;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -17,14 +18,17 @@ public class HelloModContext {
 
     static Logger logger = Logger.getLogger(HelloModContext.class);
 
-    @Autowired
-    public ModulePlatform modulePlatform;
+    @Bean
+    public Module buttonModuleInfo(){
+        Module buttonInfo = new ModuleInfo();
+        logger.debug("@Bean " + buttonInfo + " created");
+        return buttonInfo;
+    }
 
     @Bean
     public ButtonModule factoryButton(){
         ButtonModule buttonModule = new ButtonModule(helloButton(), byeButton(), cleanButton());
         logger.debug("@Bean " + buttonModule + " created");
-        modulePlatform.addModule(buttonModule);
         return buttonModule;
     }
 
