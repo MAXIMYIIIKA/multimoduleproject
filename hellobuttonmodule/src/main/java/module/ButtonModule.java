@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  * Created by Max Nichipor on 06.07.2016.
  */
 
-@Component
+@Component("button")
 public class ButtonModule implements Module{
 
     static Logger logger = Logger.getLogger(ButtonModule.class);

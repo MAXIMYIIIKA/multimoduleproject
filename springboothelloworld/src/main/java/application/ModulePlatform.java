@@ -5,6 +5,7 @@ import interfaces.ModuleInfo;
 import module.ButtonModuleInfo;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 
@@ -24,29 +25,23 @@ public class ModulePlatform {
 //    @Autowired
 //    private ButtonModuleInfo bmi;
 
-    private Module modules;
+    private List<Module> modules;
 
     public ModulePlatform(){
-        modules = new Module() {
-            @Override
-            public ModuleInfo getInfo() {
-                return null;
-            }
-        };
     }
 
     @Autowired
-    public ModulePlatform(Module modules){
+    public ModulePlatform(List<Module> modules){
         this.modules = modules;
     }
 
-    public Module getModules(){
+    public List<Module> getModules(){
         return modules;
     }
 
     public void addModule(Module module){
         logger.debug(module.getInfo().getName() + " initialization");
-//        this.modules.add(module);
+        this.modules.add(module);
         logger.debug(module.getInfo().getName() + " initialized");
     }
 
