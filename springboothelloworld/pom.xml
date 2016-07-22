@@ -69,13 +69,18 @@
 			<version>1.2.17</version>
 		</dependency>
 		<dependency>
-			<groupId>multi-module</groupId>
-			<artifactId>application</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<groupId>module</groupId>
+			<artifactId>hellobuttonmodule</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>module</groupId>
-			<artifactId>hellobuttonmodule</artifactId>
+			<artifactId>module1</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>module</groupId>
+			<artifactId>module2</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>

@@ -2,31 +2,36 @@ package module;
 
 import module.interfaces.PhraseButton;
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 /**
  * Created by Max Nichipor on 06.07.2016.
  */
 
+@Service
 public class ButtonModule {
 
     static Logger logger = Logger.getLogger(ButtonModule.class);
 
-    private PhraseButton helloButton;
-    private PhraseButton byeButton;
-    private PhraseButton cleanButton;
+    @Autowired
+    private HelloButton helloButton;
 
-    public ButtonModule(PhraseButton helloButton, PhraseButton byeButton, PhraseButton cleanButton){
+    @Autowired
+    private ByeButton byeButton;
+
+    @Autowired
+    private CleanButton cleanButton;
+
+    public ButtonModule(){
         logger.debug(this + " object creation");
-        this.helloButton = helloButton;
-        this.byeButton = byeButton;
-        this.cleanButton = cleanButton;
     }
 
     public PhraseButton getHelloButton() {
         return helloButton;
     }
 
-    public void setHelloButton(PhraseButton helloButton) {
+    public void setHelloButton(HelloButton helloButton) {
         this.helloButton = helloButton;
     }
 
@@ -34,7 +39,7 @@ public class ButtonModule {
         return byeButton;
     }
 
-    public void setByeButton(PhraseButton byeButton) {
+    public void setByeButton(ByeButton byeButton) {
         this.byeButton = byeButton;
     }
 
@@ -42,7 +47,7 @@ public class ButtonModule {
         return cleanButton;
     }
 
-    public void setCleanButton(PhraseButton cleanButton) {
+    public void setCleanButton(CleanButton cleanButton) {
         this.cleanButton = cleanButton;
     }
 

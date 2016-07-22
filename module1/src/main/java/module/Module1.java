@@ -2,10 +2,13 @@ package module;
 
 import interfaces.Module;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
 
 /**
  * Created by Max Nichipor on 08.07.2016.
  */
+
+@Service
 public class Module1 {
 
     static Logger logger = Logger.getLogger(Module1.class);

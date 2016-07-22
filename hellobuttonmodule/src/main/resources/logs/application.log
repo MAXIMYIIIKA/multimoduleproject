@@ -58,3 +58,16 @@
 2016-07-21 09:56:23 DEBUG HelloModContext:29 - @Bean ButtonModule{} created
 2016-07-21 09:56:23 DEBUG HelloModContext:22 - @Bean module.ButtonModuleInfo created
 2016-07-21 09:56:25 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.53 seconds (JVM running for 9.754)
+2016-07-21 11:40:59 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-21 11:41:00 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 4308 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-21 11:41:00 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-21 11:41:00 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-21 11:41:05 DEBUG ButtonModule:27 - ButtonModule{} object creation
+2016-07-21 11:41:05 DEBUG HelloButton:19 - HelloButton{} object creation
+2016-07-21 11:41:05 DEBUG ByeButton:19 - ByeButton{} object creation
+2016-07-21 11:41:05 DEBUG CleanButton:17 - CleanButton{} object creation
+2016-07-21 11:41:08 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.628 seconds (JVM running for 9.902)
+2016-07-21 11:41:20 DEBUG HelloController:28 - HelloController.startPage() is working
+2016-07-21 11:41:25 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-21 11:41:26 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-21 11:41:26 DEBUG HelloController:35 - HelloController.sayPhrase() is working

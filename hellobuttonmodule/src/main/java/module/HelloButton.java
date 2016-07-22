@@ -2,10 +2,13 @@ package module;
 
 import module.interfaces.PhraseButton;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Component;
 
 /**
  * Created by Max Nichipor on 06.07.2016.
  */
+
+@Component
 public class HelloButton implements PhraseButton {
 
     static Logger logger = Logger.getLogger(HelloButton.class);

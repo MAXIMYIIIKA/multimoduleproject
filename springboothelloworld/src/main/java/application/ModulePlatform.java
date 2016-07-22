@@ -1,38 +1,40 @@
 package application;
 
 import interfaces.Module;
+import module.ButtonModuleInfo;
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by Max Nichipor on 10.07.2016.
  */
+
+@Component
 public class ModulePlatform {
 
     static Logger logger = Logger.getLogger(ModulePlatform.class);
 
+//    @Autowired
+//    private ButtonModuleInfo bmi;
+
     private ArrayList<Module> modules;
 
-    public ModulePlatform(){
-        logger.debug(this + " object creation");
-        this.modules = new ArrayList<>();
-    }
-
-    public ModulePlatform(List<Module> modules){
-        this.modules = new ArrayList<>();
-        for(Module module: modules){
-            this.modules.add(module);
-        }
+    @Autowired
+    public ModulePlatform(ArrayList<Module> modules){
+        this.modules = modules;
     }
 
     public ArrayList<Module> getModules(){
         return modules;
     }
 
-    public void addModule(Module module){
+    public void addModule(String key, Module module){
         logger.debug(module.getName() + " initialization");
         this.modules.add(module);
         logger.debug(module.getName() + " initialized");
