@@ -1,6 +1,7 @@
 package application;
 
 import interfaces.Module;
+import interfaces.ModuleInfo;
 import module.ButtonModuleInfo;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,21 +24,30 @@ public class ModulePlatform {
 //    @Autowired
 //    private ButtonModuleInfo bmi;
 
-    private ArrayList<Module> modules;
+    private Module modules;
+
+    public ModulePlatform(){
+        modules = new Module() {
+            @Override
+            public ModuleInfo getInfo() {
+                return null;
+            }
+        };
+    }
 
     @Autowired
-    public ModulePlatform(ArrayList<Module> modules){
+    public ModulePlatform(Module modules){
         this.modules = modules;
     }
 
-    public ArrayList<Module> getModules(){
+    public Module getModules(){
         return modules;
     }
 
-    public void addModule(String key, Module module){
-        logger.debug(module.getName() + " initialization");
-        this.modules.add(module);
-        logger.debug(module.getName() + " initialized");
+    public void addModule(Module module){
+        logger.debug(module.getInfo().getName() + " initialization");
+//        this.modules.add(module);
+        logger.debug(module.getInfo().getName() + " initialized");
     }
 
     @Override

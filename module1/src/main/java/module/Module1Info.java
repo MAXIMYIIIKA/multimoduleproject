@@ -1,7 +1,6 @@
 package module;
 
-import interfaces.Module;
-import org.springframework.stereotype.Component;
+import interfaces.ModuleInfo;
 import org.springframework.stereotype.Service;
 
 /**
@@ -9,7 +8,7 @@ import org.springframework.stereotype.Service;
  */
 
 @Service
-public class Module1Info implements Module {
+public class Module1Info implements ModuleInfo {
     private final static String NAME = "Module1";
 
     @Override

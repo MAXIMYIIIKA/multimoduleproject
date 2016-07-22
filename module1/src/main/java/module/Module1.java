@@ -1,6 +1,7 @@
 package module;
 
 import interfaces.Module;
+import interfaces.ModuleInfo;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
 
@@ -9,7 +10,7 @@ import org.springframework.stereotype.Service;
  */
 
 @Service
-public class Module1 {
+public class Module1 implements Module{
 
     static Logger logger = Logger.getLogger(Module1.class);
 
@@ -26,5 +27,10 @@ public class Module1 {
     @Override
     public String toString() {
         return "Module1{}";
+    }
+
+    @Override
+    public ModuleInfo getInfo() {
+        return new Module1Info();
     }
 }

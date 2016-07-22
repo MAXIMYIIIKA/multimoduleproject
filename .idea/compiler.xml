@@ -25,6 +25,7 @@
         <module name="hellobuttonmodule" />
         <module name="module1" />
         <module name="module2" />
+        <module name="moduleplatform" />
         <module name="springboothelloworld" />
       </profile>
     </annotationProcessing>
@@ -32,7 +33,8 @@
       <module name="hellobuttonmodule" target="1.8" />
       <module name="module1" target="1.8" />
       <module name="module2" target="1.8" />
-      <module name="multi-module-project" target="1.8" />
+      <module name="moduleplatform" target="1.8" />
+      <module name="multi-module-project" target="1.5" />
       <module name="springboothelloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>

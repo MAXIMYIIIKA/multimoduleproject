@@ -1,6 +1,6 @@
 package module;
 
-import interfaces.Module;
+import interfaces.ModuleInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  */
 
 @Service
-public class ButtonModuleInfo implements Module {
+public class ButtonModuleInfo implements ModuleInfo {
     private final static String NAME = "Button module";
 
     @Override
