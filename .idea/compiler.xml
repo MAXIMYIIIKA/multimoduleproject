@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="fakemodule" />
         <module name="hellobuttonmodule" />
         <module name="module1" />
         <module name="module2" />
@@ -30,12 +31,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="fakemodule" target="1.8" />
       <module name="hellobuttonmodule" target="1.8" />
       <module name="module1" target="1.8" />
       <module name="module2" target="1.8" />
       <module name="moduleplatform" target="1.8" />
-      <module name="multi-module-project" target="1.5" />
-      <module name="springboothelloworld" target="1.8" />
+      <module name="multi-module-project" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

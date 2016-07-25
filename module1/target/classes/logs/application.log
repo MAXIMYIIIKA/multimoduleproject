@@ -21,3 +21,9 @@
 2016-07-21 09:57:11 DEBUG Module1Controller:28 - Module1Controller.mainPage() is working
 2016-07-21 09:57:12 DEBUG Module1Controller:28 - Module1Controller.mainPage() is working
 2016-07-21 09:57:14 DEBUG Module1Controller:28 - Module1Controller.mainPage() is working
+2016-07-25 06:53:18 INFO  Module1Application:48 - Starting Module1Application on MAXIMYIIIKA with PID 8240 (C:\Users\maxim\IdeaProjects\multi-module-project\module1\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-25 06:53:18 DEBUG Module1Application:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-25 06:53:18 INFO  Module1Application:660 - No active profile set, falling back to default profiles: default
+2016-07-25 06:53:23 DEBUG Module1:20 - Module1{} object creation
+2016-07-25 06:53:25 INFO  Module1Application:57 - Started Module1Application in 8.416 seconds (JVM running for 9.587)
+2016-07-25 06:54:13 DEBUG Module1Controller:28 - Module1Controller.mainPage() is working

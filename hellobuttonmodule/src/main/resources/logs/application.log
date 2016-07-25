@@ -71,3 +71,39 @@
 2016-07-21 11:41:25 DEBUG HelloController:35 - HelloController.sayPhrase() is working
 2016-07-21 11:41:26 DEBUG HelloController:35 - HelloController.sayPhrase() is working
 2016-07-21 11:41:26 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:39:51 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-25 06:39:52 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 8168 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-25 06:39:52 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-25 06:39:52 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-25 06:39:57 DEBUG ButtonModule:30 - ButtonModule{} object creation
+2016-07-25 06:39:57 DEBUG HelloButton:19 - HelloButton{} object creation
+2016-07-25 06:39:57 DEBUG ByeButton:19 - ByeButton{} object creation
+2016-07-25 06:39:57 DEBUG CleanButton:17 - CleanButton{} object creation
+2016-07-25 06:39:59 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.188 seconds (JVM running for 9.359)
+2016-07-25 06:40:34 DEBUG HelloController:28 - HelloController.startPage() is working
+2016-07-25 06:40:35 DEBUG HelloController:28 - HelloController.startPage() is working
+2016-07-25 06:40:37 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:40:37 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:40:38 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:41:42 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-25 06:41:43 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 1004 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-25 06:41:43 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-25 06:41:43 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-25 06:41:49 DEBUG ButtonModule:30 - ButtonModule{} object creation
+2016-07-25 06:41:49 DEBUG HelloButton:19 - HelloButton{} object creation
+2016-07-25 06:41:49 DEBUG ByeButton:19 - ByeButton{} object creation
+2016-07-25 06:41:49 DEBUG CleanButton:17 - CleanButton{} object creation
+2016-07-25 06:41:51 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.614 seconds (JVM running for 9.865)
+2016-07-25 06:47:05 DEBUG HellobuttonmoduleApplication:13 - Application running... 
+2016-07-25 06:47:06 INFO  HellobuttonmoduleApplication:48 - Starting HellobuttonmoduleApplication on MAXIMYIIIKA with PID 3296 (C:\Users\maxim\IdeaProjects\multi-module-project\hellobuttonmodule\target\classes started by maxim in C:\Users\maxim\IdeaProjects\multi-module-project)
+2016-07-25 06:47:06 DEBUG HellobuttonmoduleApplication:51 - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+2016-07-25 06:47:06 INFO  HellobuttonmoduleApplication:660 - No active profile set, falling back to default profiles: default
+2016-07-25 06:47:12 DEBUG ButtonModule:30 - ButtonModule{} object creation
+2016-07-25 06:47:12 DEBUG HelloButton:19 - HelloButton{} object creation
+2016-07-25 06:47:12 DEBUG ByeButton:19 - ByeButton{} object creation
+2016-07-25 06:47:12 DEBUG CleanButton:17 - CleanButton{} object creation
+2016-07-25 06:47:14 INFO  HellobuttonmoduleApplication:57 - Started HellobuttonmoduleApplication in 8.121 seconds (JVM running for 9.445)
+2016-07-25 06:50:27 DEBUG HelloController:28 - HelloController.startPage() is working
+2016-07-25 06:50:29 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:50:30 DEBUG HelloController:35 - HelloController.sayPhrase() is working
+2016-07-25 06:50:30 DEBUG HelloController:35 - HelloController.sayPhrase() is working

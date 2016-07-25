@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = Module1Application.class)
+@SpringApplicationConfiguration(classes = FakeModuleApplication.class)
 @WebAppConfiguration
 public class Module1ApplicationTests {
 

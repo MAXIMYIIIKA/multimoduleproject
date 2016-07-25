@@ -6,13 +6,12 @@ import module.interfaces.PhraseButton;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
 /**
  * Created by Max Nichipor on 06.07.2016.
  */
 
-@Component
+@Component("A")
 public class ButtonModule implements Module{
 
     static Logger logger = Logger.getLogger(ButtonModule.class);
