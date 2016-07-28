@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
  */
 
 @Controller
-@RequestMapping({"/","/index*"})
+@RequestMapping(value = {"/","/index*"})
 public class MainController {
 
     static Logger logger = Logger.getLogger(MainController.class);
@@ -26,7 +26,7 @@ public class MainController {
         return "index";
     }
 
-    @RequestMapping(params = {"modules"}, method = RequestMethod.GET)
+    @RequestMapping(params = {"modules"}, method = RequestMethod.GET, produces = "application/json")
     @ResponseStatus(HttpStatus.OK)
     public String showModules(Model ui){
         logger.debug("MainController.showModules() is working");

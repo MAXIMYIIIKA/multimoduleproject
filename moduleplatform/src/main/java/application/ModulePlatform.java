@@ -27,8 +27,8 @@ public class ModulePlatform {
 
     @Override
     public String toString() {
-        return "ModulePlatform{" +
-                "modules=" + modules +
+        return '{' +
+                "\"modules\":" + modules +
                 '}';
     }
 
