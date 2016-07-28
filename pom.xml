@@ -22,10 +22,10 @@
     </parent>
 
     <modules>
+        <module>moduleplatform</module>
         <module>hellobuttonmodule</module>
         <module>module1</module>
         <module>module2</module>
-        <module>moduleplatform</module>
         <module>fakemodule</module>
     </modules>
 

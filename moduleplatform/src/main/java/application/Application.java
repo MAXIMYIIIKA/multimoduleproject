@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * Created by Max Nichipor on 05.07.2016.
  */
 
-@ComponentScan("application, module1, buttonmodule, module2")
+@ComponentScan("..")
 @SpringBootApplication
 public class Application {
 
