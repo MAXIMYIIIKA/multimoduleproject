@@ -40,3 +40,6 @@ local.properties
 *.log
 *.scc
 *.idea/
+.idea/compiler.xml
+.idea/modules.xml
+.idea/workspace.xml

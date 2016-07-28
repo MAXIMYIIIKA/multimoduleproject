@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="fakemodule" />
         <module name="hellobuttonmodule" />
         <module name="module1" />
         <module name="module2" />

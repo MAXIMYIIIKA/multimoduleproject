@@ -1346,12 +1346,12 @@
       <workItem from="1469196793548" duration="13000" />
       <workItem from="1469433576641" duration="15783000" />
       <workItem from="1469693246917" duration="8998000" />
-      <workItem from="1469707607073" duration="36000" />
+      <workItem from="1469707607073" duration="163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65575000" />
+    <option name="totallyTimeSpent" value="65702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1823,7 +1823,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hellobuttonmodule</last-edited>
+          <last-edited>moduleplatform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
