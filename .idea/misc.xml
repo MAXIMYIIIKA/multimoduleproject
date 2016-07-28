@@ -47,6 +47,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboothelloworld/pom.xml" />
         <option value="$PROJECT_DIR$/moduleplatform/pom.xml" />
+        <option value="$PROJECT_DIR$/hellobuttonmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/module1/pom.xml" />
+        <option value="$PROJECT_DIR$/module2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -54,34 +57,6 @@
         <option value="$PROJECT_DIR$/maven-plugin/pom.xml" />
       </set>
     </option>
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralScala</id>
-          </State>
-          <State>
-            <id>Scala</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>DefaultFileTemplate</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
