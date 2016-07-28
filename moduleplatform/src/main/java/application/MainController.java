@@ -26,7 +26,7 @@ public class MainController {
         return "index";
     }
 
-    @RequestMapping(params = {"modules"}, method = RequestMethod.GET, produces = "application/json")
+    @RequestMapping(params = {"modules"}, method = RequestMethod.GET)
     @ResponseStatus(HttpStatus.OK)
     public String showModules(Model ui){
         logger.debug("MainController.showModules() is working");
