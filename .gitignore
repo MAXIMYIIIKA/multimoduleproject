@@ -39,4 +39,4 @@ local.properties
 *.pidb
 *.log
 *.scc
-*/.idea/
+*.idea/
