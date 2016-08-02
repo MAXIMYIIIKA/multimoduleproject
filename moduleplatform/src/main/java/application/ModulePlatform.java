@@ -19,8 +19,6 @@ public class ModulePlatform {
     @Autowired
     private List<Module> modules;
 
-    public ModulePlatform(){}
-
     public List<Module> getModules(){
         return modules;
     }

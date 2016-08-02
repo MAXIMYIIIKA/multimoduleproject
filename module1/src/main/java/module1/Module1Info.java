@@ -18,6 +18,6 @@ public class Module1Info implements ModuleInfo {
 
     @Override
     public String toString() {
-        return this.getClass().getName();
+        return getName();
     }
 }

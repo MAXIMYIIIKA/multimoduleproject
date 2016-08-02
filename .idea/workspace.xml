@@ -14,6 +14,9 @@
     <ignored path="$PROJECT_DIR$/module1/target/" />
     <ignored path="$PROJECT_DIR$/module2/target/" />
     <ignored path="$PROJECT_DIR$/fakemodule/target/" />
+    <ignored path="$PROJECT_DIR$/registerloginmodule/target/" />
+    <ignored path="$PROJECT_DIR$/root/target/" />
+    <ignored path="$PROJECT_DIR$/collector/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,109 +41,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/MainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maven-wrapper.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellobuttonmodule/.mvn/wrapper/maven-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SecondaryController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/SecondaryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModulePlatform.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/ModulePlatform.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Module2Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Module2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="210">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collector/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -154,6 +89,7 @@
         <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -168,29 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module2/src/main/java/module/ModuleInfo.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/java/application/AppContext.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/resources/spring-autoscan.xml" />
-        <option value="$PROJECT_DIR$/hellobuttonmodule/src/main/java/module/HelloModContext.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/java/application/Application.java" />
-        <option value="$PROJECT_DIR$/hellobuttonmodule/src/main/java/module/ByeButton.java" />
-        <option value="$PROJECT_DIR$/hellobuttonmodule/src/main/java/module/CleanButton.java" />
-        <option value="$PROJECT_DIR$/hellobuttonmodule/src/main/java/module/HelloButton.java" />
-        <option value="$PROJECT_DIR$/module1/src/main/java/module/Module1Context.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboothelloworld/pom.xml" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/java/application/AppContx.java" />
-        <option value="$PROJECT_DIR$/module1/src/main/java/module/Module1Info.java" />
-        <option value="$PROJECT_DIR$/module1/src/main/java/module/Module1.java" />
-        <option value="$PROJECT_DIR$/module2/src/main/java/module/Module2Info.java" />
-        <option value="$PROJECT_DIR$/module2/src/main/java/module/Module2.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/java/application/MainController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interfaces/Module.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interfaces/ModuleInfo.java" />
-        <option value="$PROJECT_DIR$/springboothelloworld/src/main/java/application/ModulePlatform.java" />
-        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/application/ModulePlatform.java" />
         <option value="$PROJECT_DIR$/fakemodule/src/main/java/module/Module1.java" />
         <option value="$PROJECT_DIR$/fakemodule/src/main/java/module/FakeModuleApplication.java" />
@@ -209,16 +122,39 @@
         <option value="$PROJECT_DIR$/src/Application.java" />
         <option value="$PROJECT_DIR$/src/app/ModulePlatform.java" />
         <option value="$PROJECT_DIR$/src/app/Application.java" />
-        <option value="$PROJECT_DIR$/hellobuttonmodule/pom.xml" />
         <option value="$PROJECT_DIR$/module2/src/main/java/module2/Module2.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/Application.java" />
-        <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/ModulePlatform.java" />
         <option value="$PROJECT_DIR$/moduleplatform/pom.xml" />
         <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/RestController.java" />
         <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/SecondaryController.java" />
-        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/MainController.java" />
+        <option value="$PROJECT_DIR$/moduleplatform/src/main/java/application/ModulePlatform.java" />
+        <option value="$PROJECT_DIR$/module1/src/main/java/module1/Module1Info.java" />
+        <option value="$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ButtonModuleInfo.java" />
+        <option value="$PROJECT_DIR$/module2/src/main/java/module2/Module2Info.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/RegLogModule.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/RegLogModuleInfo.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/controllers/SecutiryController.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/controllers/LoginController.java" />
+        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/module1/module1.iml" />
+        <option value="$PROJECT_DIR$/module2/module2.iml" />
+        <option value="$PROJECT_DIR$/moduleplatform/moduleplatform.iml" />
+        <option value="$PROJECT_DIR$/registerloginmodule/registerloginmodule.iml" />
+        <option value="$PROJECT_DIR$/hellobuttonmodule/hellobuttonmodule.iml" />
+        <option value="$PROJECT_DIR$/hellobuttonmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/root/pom.xml" />
+        <option value="$PROJECT_DIR$/moduleplatform/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/collector/pom.xml" />
+        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/moduleplatform/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/registerloginmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/springsecurity/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/controllers/AccessDeniedController.java" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/resources/templates/403.html" />
+        <option value="$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/config/AppConf.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -236,6 +172,7 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
@@ -311,359 +248,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
+              <option name="myItemId" value="multimoduleproject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
+              <option name="myItemId" value="multimoduleproject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moduleplatform" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multi-module-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellobuttonmodule" />
+              <option name="myItemId" value="multimoduleproject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -672,6 +283,7 @@
     <property name="project.structure.proportion" value="0.15722656" />
     <property name="project.structure.side.proportion" value="0.43857634" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -708,19 +320,6 @@
       <option name="ENABLE_SWING_INSPECTOR" value="true" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="multi-module-project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="application.Application" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <module name="multi-module-project" />
       <envs />
       <method />
@@ -764,6 +363,19 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="application.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="collector" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -792,7 +404,10 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -815,7 +430,10 @@
       <Profilers>
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -1303,10 +921,10 @@
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.Module1Application" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.Module2Application" />
       <item index="4" class="java.lang.String" itemvalue="Application.Application" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.Application" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.Application--nomod" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.Applicationew" />
-      <item index="8" class="java.lang.String" itemvalue="Spring Boot.FakeModuleApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.Application--nomod" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.Applicationew" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.FakeModuleApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -1347,11 +965,20 @@
       <workItem from="1469433576641" duration="15783000" />
       <workItem from="1469693246917" duration="8998000" />
       <workItem from="1469707607073" duration="163000" />
+      <workItem from="1469709055424" duration="596000" />
+      <workItem from="1469709696320" duration="162000" />
+      <workItem from="1469712697854" duration="115000" />
+      <workItem from="1470055456247" duration="124000" />
+      <workItem from="1470060261475" duration="7894000" />
+      <workItem from="1470080188043" duration="2103000" />
+      <workItem from="1470083161665" duration="1404000" />
+      <workItem from="1470146614267" duration="8606000" />
+      <workItem from="1470156081615" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65702000" />
+    <option name="totallyTimeSpent" value="86784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1363,25 +990,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33509833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30756843" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30868167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
@@ -1392,7 +1022,6 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55394524" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1419,197 +1048,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/moduleplatform/target/classes/application/MainController.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/logs/application.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105045">
-          <caret line="21363" column="0" selection-start-line="21363" selection-start-column="0" selection-end-line="21363" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://SpringLocalModels/module=springboothelloworld">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=springboothelloworld</OriginalElement>
-          <nodes>
-            <node x="" y="">module=springboothelloworld</node>
-            <node x="" y="">fileset=springboothelloworld/Application</node>
-            <node x="" y="">application.Application</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
-            <node x="" y="">fileset=springboothelloworld/Spring Application Context</node>
-            <node x="" y="">module.HellobuttonmoduleApplication</node>
-            <node x="" y="">module.Module1Application</node>
-            <node x="" y="">module.Module2Application</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="454.0" y="113.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboothelloworld/src/main/java/application/AppContx.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/ModuleInfo.java" />
-    <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2/src/main/resources/templates/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Module.java" />
-    <entry file="file://$PROJECT_DIR$/moduleplatform/moduleplatform.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/MainController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/ModulePlatform.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/Application.java" />
-    <entry file="file://$PROJECT_DIR$/fakemodule/src/main/java/module/FakeModuleController.java" />
-    <entry file="file://$PROJECT_DIR$/fakemodule/src/main/java/module/FakeModuleInfo.java" />
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/interfaces/ModuleInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/interfaces/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin-readme.txt" />
-    <entry file="file://$PROJECT_DIR$/fakemodule/src/main/java/module/FakeModule.java" />
-    <entry file="file://$PROJECT_DIR$/fakemodule/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/fakemodule/src/main/java/module/FakeModuleApplication.java" />
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/interfaces/PhraseButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ByeButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/CleanButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/HelloButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ButtonModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ButtonModuleInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/HellobuttonmoduleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/resources/logs/application.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1624,43 +1062,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module1/src/main/java/module1/FakeModuleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module1/src/main/java/module1/Module1Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1668,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1676,10 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1687,86 +1087,973 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2.java">
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/.mvn/wrapper/maven-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/interfaces/Module.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/pom.xml">
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/interfaces/ModuleInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module1/src/main/java/module1/Module1Info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="266">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/SecondaryController.java">
+    <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2Info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ButtonModuleInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/ModulePlatform.java">
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/HellobuttonmoduleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/ButtonModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/ModulePlatform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/RegLogModuleInfo.java" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/RegLogModule.java" />
+    <entry file="file://$PROJECT_DIR$/module2/src/main/java/module2/Module2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/src/main/java/buttonmodule/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/SecondaryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/java/application/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/.mvn/wrapper/maven-wrapper.properties">
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/resources/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/moduleplatform/.mvn/wrapper/maven-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/moduleplatform/mvnw" />
+    <entry file="file://$PROJECT_DIR$/multimoduleproject.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="816">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/multi-module:application:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>multi-module:application:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="766.25">multi-module:application:1.0-SNAPSHOT</node>
+            <node x="188.5" y="105.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE</node>
+            <node x="467.0" y="0.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE</node>
+            <node x="732.5" y="0.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE/org.springframework:spring-context:jar:4.2.7.RELEASE</node>
+            <node x="427.0" y="70.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.6.RELEASE</node>
+            <node x="468.0" y="140.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework:spring-core:jar:4.2.7.RELEASE</node>
+            <node x="470.5" y="210.0">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.yaml:snakeyaml:jar:1.16</node>
+            <node x="173.0" y="418.125">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE</node>
+            <node x="465.5" y="280.0">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21</node>
+            <node x="750.0" y="280.0">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21/org.slf4j:slf4j-api:jar:1.7.21</node>
+            <node x="471.0" y="418.125">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.21</node>
+            <node x="466.5" y="488.125">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.21</node>
+            <node x="226.0" y="488.125">log4j:log4j:jar:1.2.17</node>
+            <node x="195.5" y="630.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT</node>
+            <node x="434.5" y="630.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE</node>
+            <node x="699.0" y="361.4413265306123">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE</node>
+            <node x="983.5" y="245.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.36</node>
+            <node x="990.5" y="315.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.36</node>
+            <node x="964.0" y="385.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.36</node>
+            <node x="967.0" y="455.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.36</node>
+            <node x="692.0" y="525.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE</node>
+            <node x="987.0" y="525.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final</node>
+            <node x="1225.0" y="455.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="1225.0" y="525.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="1235.5" y="661.25">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0</node>
+            <node x="725.0" y="630.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+            <node x="983.5" y="595.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7</node>
+            <node x="1003.5" y="665.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-core:jar:2.6.7</node>
+            <node x="741.0" y="700.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE</node>
+            <node x="729.5" y="770.0">multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE</node>
+            <node x="187.5" y="876.844387755102">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT</node>
+            <node x="419.0" y="876.844387755102">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE</node>
+            <node x="722.5" y="840.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE</node>
+            <node x="1011.0" y="840.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE</node>
+            <node x="1249.5" y="731.25">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/ognl:ognl:jar:3.0.8</node>
+            <node x="1240.0" y="840.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="1233.0" y="910.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE</node>
+            <node x="705.5" y="910.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3</node>
+            <node x="1019.0" y="910.0">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3/org.codehaus.groovy:groovy:jar:2.4.7</node>
+            <node x="215.5" y="1035.7857142857142">multi-module:module1:jar:1.0-SNAPSHOT</node>
+            <node x="215.5" y="1105.7857142857142">multi-module:module2:jar:1.0-SNAPSHOT</node>
+            <node x="203.5" y="1175.7857142857142">multi-module:register-login:jar:1.0-SNAPSHOT</node>
+            <node x="445.5" y="1115.9693877551022">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE</node>
+            <node x="741.0" y="980.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="717.5" y="1050.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework.security:spring-security-core:jar:4.0.4.RELEASE</node>
+            <node x="736.5" y="1120.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework:spring-beans:jar:4.2.7.RELEASE</node>
+            <node x="724.5" y="1190.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework:spring-expression:jar:4.2.7.RELEASE</node>
+            <node x="439.5" y="1260.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE</node>
+            <node x="742.0" y="1260.0">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE/org.springframework:spring-aop:jar:4.2.7.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE">
+              <point x="67.5" y="-11.25" />
+              <point x="339.0" y="108.75" />
+              <point x="419.0" y="15.0" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE">
+              <point x="96.5" y="-7.5" />
+              <point x="692.0" y="855.0" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT">
+              <point x="46.5" y="1.875" />
+              <point x="173.0" y="891.844387755102" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE">
+              <point x="81.0" y="-6.0" />
+              <point x="612.0" y="639.0" />
+              <point x="-96.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE">
+              <point x="81.0" y="12.0" />
+              <point x="612.0" y="657.0" />
+              <point x="692.0" y="785.0" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT">
+              <point x="46.5" y="13.125" />
+              <point x="173.0" y="1190.7857142857142" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3/org.codehaus.groovy:groovy:jar:2.4.7">
+              <point x="82.5" y="-0.0" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE">
+              <point x="52.5" y="7.5" />
+              <point x="339.0" y="1198.2857142857142" />
+              <point x="419.0" y="1275.0" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.36">
+              <point x="89.0" y="-3.75" />
+              <point x="964.0" y="330.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final">
+              <point x="96.0" y="-0.0" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE/org.springframework:spring-context:jar:4.2.7.RELEASE">
+              <point x="48.5" y="-0.0" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE">
+              <point x="46.5" y="-9.375" />
+              <point x="-83.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.6.RELEASE">
+              <point x="67.5" y="-3.75" />
+              <point x="339.0" y="116.25" />
+              <point x="-88.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.36">
+              <point x="89.0" y="11.25" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE">
+              <point x="81.0" y="6.0" />
+              <point x="612.0" y="651.0" />
+              <point x="692.0" y="715.0" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.yaml:snakeyaml:jar:1.16">
+              <point x="67.5" y="11.25" />
+              <point x="339.0" y="131.25" />
+              <point x="419.0" y="225.0" />
+              <point x="-45.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="43.5" y="-0.0" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE">
+              <point x="81.0" y="-12.0" />
+              <point x="612.0" y="633.0" />
+              <point x="-89.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE">
+              <point x="52.5" y="-7.5" />
+              <point x="339.0" y="1183.2857142857142" />
+              <point x="419.0" y="1130.9693877551022" />
+              <point x="-70.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21">
+              <point x="83.0" y="-10.0" />
+              <point x="419.0" y="295.0" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="multi-module:module2:jar:1.0-SNAPSHOT">
+              <point x="46.5" y="9.375" />
+              <point x="173.0" y="1120.7857142857142" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE">
+              <point x="46.5" y="-13.125" />
+              <point x="173.0" y="120.0" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework:spring-expression:jar:4.2.7.RELEASE">
+              <point x="70.0" y="11.25" />
+              <point x="612.0" y="1142.2193877551022" />
+              <point x="692.0" y="1205.0" />
+              <point x="-63.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="70.0" y="-11.25" />
+              <point x="612.0" y="1119.7193877551022" />
+              <point x="692.0" y="995.0" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.36">
+              <point x="89.0" y="-11.25" />
+              <point x="964.0" y="260.0" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT">
+              <point x="46.5" y="-1.875" />
+              <point x="173.0" y="645.0" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE/org.springframework:spring-aop:jar:4.2.7.RELEASE">
+              <point x="76.0" y="-0.0" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="67.5" y="-0.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0">
+              <point x="67.5" y="10.0" />
+              <point x="1145.0" y="550.0" />
+              <point x="-43.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
+              <point x="46.5" y="-5.625" />
+              <point x="173.0" y="503.125" />
+              <point x="-30.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework.security:spring-security-core:jar:4.0.4.RELEASE">
+              <point x="70.0" y="-3.75" />
+              <point x="612.0" y="1127.2193877551022" />
+              <point x="692.0" y="1065.0" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.36">
+              <point x="89.0" y="3.75" />
+              <point x="-90.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework:spring-core:jar:4.2.7.RELEASE">
+              <point x="67.5" y="3.75" />
+              <point x="339.0" y="123.75" />
+              <point x="419.0" y="155.00000000000006" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/ognl:ognl:jar:3.0.8">
+              <point x="43.5" y="-10.0" />
+              <point x="1145.0" y="845.0" />
+              <point x="1225.0" y="746.25" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="67.5" y="-10.0" />
+              <point x="1145.0" y="530.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.21">
+              <point x="83.0" y="10.0" />
+              <point x="419.0" y="503.125" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7">
+              <point x="81.0" y="-0.0" />
+              <point x="-63.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3">
+              <point x="96.5" y="7.5" />
+              <point x="692.0" y="925.0" />
+              <point x="-82.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework:spring-beans:jar:4.2.7.RELEASE">
+              <point x="70.0" y="3.75" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE">
+              <point x="68.5" y="-0.0" />
+              <point x="-96.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21/org.slf4j:slf4j-api:jar:1.7.21">
+              <point x="50.0" y="-0.0" />
+              <point x="-38.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE">
+              <point x="65.5" y="-0.0" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.21">
+              <point x="83.0" y="-0.0" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:application:1.0-SNAPSHOT" target="multi-module:module1:jar:1.0-SNAPSHOT">
+              <point x="46.5" y="5.625" />
+              <point x="173.0" y="1050.7857142857142" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE">
+              <point x="43.5" y="10.0" />
+              <point x="1145.0" y="865.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7">
+              <point x="63.0" y="-7.5" />
+              <point x="884.0" y="637.5" />
+              <point x="964.0" y="610.0" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-0.0" />
+              <point x="-81.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7" target="multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-core:jar:2.6.7">
+              <point x="63.0" y="7.5" />
+              <point x="884.0" y="652.5" />
+              <point x="964.0" y="680.0" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.40606508875739644" x="616.0" y="520.0" />
+          <SelectedNodes>
+            <node>multi-module:moduleplatform:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/multi-module:moduleplatform:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>multi-module:moduleplatform:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="20.0" y="1498.7448863636373">multi-module:moduleplatform:1.0-SNAPSHOT</node>
+            <node x="261.5" y="32.85435606060753">com.jayway.jsonpath:json-path:jar:2.0.0</node>
+            <node x="525.5" y="0.0">com.jayway.jsonpath:json-path:jar:2.0.0/org.slf4j:slf4j-api:jar:1.7.21</node>
+            <node x="518.0" y="70.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1</node>
+            <node x="802.5" y="70.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2</node>
+            <node x="1026.5" y="70.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2/asm:asm:jar:3.3.1</node>
+            <node x="230.5" y="236.86988636363742">org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE</node>
+            <node x="515.0" y="140.0">org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE</node>
+            <node x="775.0" y="140.0">org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE/org.springframework:spring-context:jar:4.2.7.RELEASE</node>
+            <node x="475.0" y="271.8698863636374">org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.6.RELEASE</node>
+            <node x="223.0" y="623.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE</node>
+            <node x="474.5" y="343.7448863636374">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE</node>
+            <node x="759.5" y="238.74488636363742">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.36</node>
+            <node x="766.5" y="308.7448863636374">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.36</node>
+            <node x="740.0" y="378.7448863636374">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.36</node>
+            <node x="743.0" y="448.7448863636374">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.36</node>
+            <node x="467.5" y="518.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE</node>
+            <node x="763.0" y="518.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final</node>
+            <node x="1001.0" y="404.2501893939408">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="1001.0" y="518.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="1011.5" y="619.375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0</node>
+            <node x="500.5" y="609.8803030303034">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+            <node x="759.5" y="588.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7</node>
+            <node x="779.5" y="658.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-core:jar:2.6.7</node>
+            <node x="516.5" y="749.8803030303034">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE</node>
+            <node x="784.5" y="728.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-aop:jar:4.2.7.RELEASE</node>
+            <node x="779.0" y="798.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-beans:jar:4.2.7.RELEASE</node>
+            <node x="505.0" y="868.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE</node>
+            <node x="767.0" y="868.7448863636375">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE/org.springframework:spring-expression:jar:4.2.7.RELEASE</node>
+            <node x="224.5" y="1113.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE</node>
+            <node x="534.5" y="938.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/junit:junit:jar:4.12</node>
+            <node x="510.5" y="1008.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="789.0" y="1008.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="508.0" y="1078.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="503.0" y="1148.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="516.0" y="1218.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-core:jar:4.2.7.RELEASE</node>
+            <node x="518.0" y="1288.7448863636375">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-test:jar:4.2.7.RELEASE</node>
+            <node x="236.5" y="1358.7448863636375">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE</node>
+            <node x="518.5" y="1358.7448863636375">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.yaml:snakeyaml:jar:1.16</node>
+            <node x="221.0" y="1497.8543560606076">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE</node>
+            <node x="513.5" y="1428.7448863636375">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21</node>
+            <node x="519.0" y="1498.7448863636373">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.21</node>
+            <node x="514.5" y="1568.7448863636373">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.21</node>
+            <node x="274.0" y="1567.8543560606076">log4j:log4j:jar:1.2.17</node>
+            <node x="235.5" y="1654.2501893939407">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT</node>
+            <node x="467.0" y="1654.2501893939407">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE</node>
+            <node x="765.0" y="1602.8543560606076">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE</node>
+            <node x="1011.0" y="1602.8543560606076">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE</node>
+            <node x="1204.5" y="1502.8543560606076">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/ognl:ognl:jar:3.0.8</node>
+            <node x="1195.0" y="1572.8543560606076">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="1188.0" y="1642.8543560606076">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE</node>
+            <node x="748.0" y="1673.7448863636373">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3</node>
+            <node x="1019.0" y="1673.7448863636373">multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3/org.codehaus.groovy:groovy:jar:2.4.7</node>
+            <node x="263.5" y="1724.2501893939407">multi-module:module1:jar:1.0-SNAPSHOT</node>
+            <node x="263.5" y="1794.2501893939407">multi-module:module2:jar:1.0-SNAPSHOT</node>
+            <node x="251.5" y="1864.2501893939407">multi-module:register-login:jar:1.0-SNAPSHOT</node>
+            <node x="493.5" y="1813.7448863636373">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE</node>
+            <node x="783.5" y="1778.7448863636373">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="760.0" y="1848.7448863636373">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework.security:spring-security-core:jar:4.0.4.RELEASE</node>
+            <node x="487.5" y="1883.7448863636373">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
+              <point x="79.5" y="2.5" />
+              <point x="467.0" y="1163.7448863636375" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0">
+              <point x="67.5" y="10.0" />
+              <point x="921.0" y="543.7448863636375" />
+              <point x="-43.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3/org.codehaus.groovy:groovy:jar:2.4.7">
+              <point x="82.5" y="-0.0" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE">
+              <point x="52.5" y="7.5" />
+              <point x="387.0" y="1886.7501893939407" />
+              <point x="467.0" y="1898.7448863636373" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-test:jar:4.2.7.RELEASE">
+              <point x="79.5" y="12.5" />
+              <point x="467.0" y="1303.7448863636375" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="multi-module:module2:jar:1.0-SNAPSHOT">
+              <point x="60.5" y="10.909090909090992" />
+              <point x="221.0" y="1809.2501893939407" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="67.5" y="-10.0" />
+              <point x="921.0" y="523.7448863636375" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2/asm:asm:jar:3.3.1">
+              <point x="28.0" y="-0.0" />
+              <point x="-28.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT">
+              <point x="60.5" y="13.63636363636374" />
+              <point x="221.0" y="1879.2501893939407" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7">
+              <point x="63.0" y="-7.5" />
+              <point x="660.0" y="617.3803030303034" />
+              <point x="740.0" y="603.7448863636375" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-0.0" />
+              <point x="-83.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="43.5" y="-0.0" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.36">
+              <point x="89.0" y="11.25" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="com.jayway.jsonpath:json-path:jar:2.0.0">
+              <point x="60.5" y="-13.63636363636374" />
+              <point x="221.0" y="47.85435606060753" />
+              <point x="-42.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE">
+              <point x="52.5" y="-7.5" />
+              <point x="387.0" y="1871.7501893939407" />
+              <point x="467.0" y="1828.7448863636373" />
+              <point x="-70.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.36">
+              <point x="89.0" y="-11.25" />
+              <point x="740.0" y="253.74488636363742" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21">
+              <point x="83.0" y="-10.0" />
+              <point x="467.0" y="1443.7448863636375" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="70.0" y="-7.5" />
+              <point x="660.0" y="1821.2448863636373" />
+              <point x="740.0" y="1793.7448863636373" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE" target="multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework.security:spring-security-core:jar:4.0.4.RELEASE">
+              <point x="70.0" y="7.5" />
+              <point x="660.0" y="1836.2448863636373" />
+              <point x="740.0" y="1863.7448863636373" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE/org.springframework:spring-context:jar:4.2.7.RELEASE">
+              <point x="48.5" y="-0.0" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE/org.springframework:spring-expression:jar:4.2.7.RELEASE">
+              <point x="58.5" y="-0.0" />
+              <point x="-63.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-aop:jar:4.2.7.RELEASE">
+              <point x="47.0" y="-7.5" />
+              <point x="660.0" y="757.3803030303034" />
+              <point x="740.0" y="743.7448863636375" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/ognl:ognl:jar:3.0.8">
+              <point x="43.5" y="-10.0" />
+              <point x="1188.0" y="1517.8543560606076" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.21">
+              <point x="83.0" y="10.0" />
+              <point x="467.0" y="1583.7448863636373" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3">
+              <point x="96.5" y="7.5" />
+              <point x="-82.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE">
+              <point x="68.5" y="-0.0" />
+              <point x="-96.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19">
+              <point x="79.5" y="-7.5" />
+              <point x="467.0" y="1023.7448863636375" />
+              <point x="-53.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-2.727272727272748" />
+              <point x="221.0" y="1373.7448863636375" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE">
+              <point x="81.0" y="-6.0" />
+              <point x="-96.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE">
+              <point x="81.0" y="-12.0" />
+              <point x="-89.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT">
+              <point x="60.5" y="5.454545454545496" />
+              <point x="221.0" y="1669.2501893939407" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1">
+              <point x="42.5" y="7.5" />
+              <point x="387.0" y="55.35435606060753" />
+              <point x="467.0" y="85.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE">
+              <point x="81.0" y="12.0" />
+              <point x="467.0" y="883.7448863636375" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-beans:jar:4.2.7.RELEASE">
+              <point x="47.0" y="7.5" />
+              <point x="660.0" y="772.3803030303034" />
+              <point x="740.0" y="813.7448863636375" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="multi-module:moduleplatform:1.0-SNAPSHOT">
+              <point x="-60.5" y="-0.0" />
+              <point x="0.0" y="1513.7448863636373" />
+              <point x="0.0" y="1548.7448863636373" />
+              <point x="80.5" y="1548.7448863636373" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2">
+              <point x="45.5" y="-0.0" />
+              <point x="-28.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE">
+              <point x="96.5" y="-7.5" />
+              <point x="740.0" y="1617.8543560606076" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.36">
+              <point x="89.0" y="-3.75" />
+              <point x="740.0" y="323.7448863636374" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final">
+              <point x="96.0" y="-0.0" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-core:jar:4.2.7.RELEASE">
+              <point x="79.5" y="7.5" />
+              <point x="467.0" y="1233.7448863636375" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-8.181818181818244" />
+              <point x="-81.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="67.5" y="-0.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/junit:junit:jar:4.12">
+              <point x="79.5" y="-12.5" />
+              <point x="467.0" y="953.7448863636375" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE">
+              <point x="73.5" y="-7.5" />
+              <point x="467.0" y="155.0" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="79.5" y="-2.5" />
+              <point x="467.0" y="1093.7448863636375" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0" target="com.jayway.jsonpath:json-path:jar:2.0.0/org.slf4j:slf4j-api:jar:1.7.21">
+              <point x="42.5" y="-7.5" />
+              <point x="387.0" y="40.35435606060753" />
+              <point x="467.0" y="15.0" />
+              <point x="-38.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.6.RELEASE">
+              <point x="73.5" y="7.5" />
+              <point x="-88.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1">
+              <point x="53.0" y="-0.0" />
+              <point x="-41.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.yaml:snakeyaml:jar:1.16">
+              <point x="67.5" y="-0.0" />
+              <point x="-45.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-devtools:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-10.909090909090992" />
+              <point x="-73.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE">
+              <point x="60.5" y="-5.454545454545496" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="multi-module:module1:jar:1.0-SNAPSHOT">
+              <point x="60.5" y="8.181818181818244" />
+              <point x="221.0" y="1739.2501893939407" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="multi-module:moduleplatform:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
+              <point x="60.5" y="2.727272727272748" />
+              <point x="221.0" y="1582.8543560606076" />
+              <point x="-30.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.36">
+              <point x="89.0" y="3.75" />
+              <point x="-90.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-core:jar:2.6.7">
+              <point x="63.0" y="7.5" />
+              <point x="660.0" y="632.3803030303034" />
+              <point x="740.0" y="673.7448863636375" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE">
+              <point x="65.5" y="-0.0" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7">
+              <point x="81.0" y="-0.0" />
+              <point x="467.0" y="624.8803030303034" />
+              <point x="-63.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.21">
+              <point x="83.0" y="-0.0" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE">
+              <point x="81.0" y="6.0" />
+              <point x="467.0" y="764.8803030303034" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE" target="multi-module:hellobuttonmodule:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE">
+              <point x="43.5" y="10.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.29265770423991727" x="522.0" y="990.0" />
+          <SelectedNodes>
+            <node>multi-module:moduleplatform:1.0-SNAPSHOT</node>
+            <node>multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/multi-module:hellobuttonmodule:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>multi-module:hellobuttonmodule:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">multi-module:hellobuttonmodule:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/ognl:ognl:jar:3.0.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.4.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.3.6.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.3.3/org.codehaus.groovy:groovy:jar:2.4.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.6.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7/com.fasterxml.jackson.core:jackson-core:jar:2.6.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-aop:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-beans:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-web:jar:4.2.7.RELEASE/org.springframework:spring-context:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.6.RELEASE/org.springframework:spring-webmvc:jar:4.2.7.RELEASE/org.springframework:spring-expression:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-core:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.6.RELEASE/org.springframework:spring-test:jar:4.2.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.3.6.RELEASE/org.yaml:snakeyaml:jar:1.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.6.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.21</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">multi-module:moduleplatform:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">multi-module:module1:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">multi-module:module2:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">multi-module:register-login:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE</node>
+            <node x="" y="">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-web:jar:4.0.4.RELEASE/org.springframework.security:spring-security-core:jar:4.0.4.RELEASE</node>
+            <node x="" y="">multi-module:register-login:jar:1.0-SNAPSHOT/org.springframework.security:spring-security-config:jar:4.0.4.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.25738972260118237" x="1436.0" y="1350.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/module1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2/module2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/moduleplatform.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="82" selection-start-line="54" selection-start-column="82" selection-end-line="54" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/registerloginmodule.iml" />
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/hellobuttonmodule.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobuttonmodule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collector/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moduleplatform/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/controllers/LoginController.java" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/controllers/AccessDeniedController.java" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/resources/templates/403.html" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/reglogmodule/config/AppConf.java" />
+    <entry file="file://$PROJECT_DIR$/registerloginmodule/src/main/java/springsecurity/SecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -1823,7 +2110,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>moduleplatform</last-edited>
+          <last-edited>registerloginmodule</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

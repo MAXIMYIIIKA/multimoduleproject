@@ -1,0 +1,6 @@
+application\ModulePlatform.class
+application\Application.class
+interfaces\ModuleInfo.class
+interfaces\Module.class
+application\MainController.class
+application\SecondaryController.class
