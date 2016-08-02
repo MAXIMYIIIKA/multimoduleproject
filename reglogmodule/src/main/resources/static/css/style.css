@@ -1,0 +1,7 @@
+div#loginform {
+    position: relative;
+    width: 100px;
+    margin: auto;
+    top: 50%;
+    margin-top: -0.625em;
+}

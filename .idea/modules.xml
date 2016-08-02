@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduleplatform/moduleplatform.iml" filepath="$PROJECT_DIR$/moduleplatform/moduleplatform.iml" />
       <module fileurl="file://$PROJECT_DIR$/multimoduleproject.iml" filepath="$PROJECT_DIR$/multimoduleproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reglogmodule/reglogmodule.iml" filepath="$PROJECT_DIR$/reglogmodule/reglogmodule.iml" />
     </modules>
   </component>
 </project>

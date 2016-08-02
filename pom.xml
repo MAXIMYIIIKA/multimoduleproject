@@ -26,6 +26,7 @@
         <module>hellobuttonmodule</module>
         <module>module1</module>
         <module>module2</module>
+        <module>reglogmodule</module>
         <module>collector</module>
     </modules>
 

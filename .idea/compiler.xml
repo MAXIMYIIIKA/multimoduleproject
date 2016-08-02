@@ -27,6 +27,7 @@
         <module name="module1" />
         <module name="module2" />
         <module name="moduleplatform" />
+        <module name="reglogmodule" />
         <module name="springboothelloworld" />
       </profile>
     </annotationProcessing>
@@ -38,6 +39,7 @@
       <module name="moduleplatform" target="1.8" />
       <module name="multimoduleproject" target="1.8" />
       <module name="registerloginmodule" target="1.8" />
+      <module name="reglogmodule" target="1.8" />
       <module name="root" target="1.8" />
     </bytecodeTargetLevel>
   </component>
